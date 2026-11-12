@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["...", "gcc", "python312"]
+
+[phases.install]
+cmds = ["pip install -r requirements.txt"]
+
+[start]
+cmd = "python get_rugged_bot.py"

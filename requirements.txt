@@ -1,0 +1,9 @@
+aiogram>=3.13.0,<4
+solana>=0.34.0
+solders>=0.21.0
+base58>=2.1.0
+web3>=6.0.0,<8
+eth-account>=0.10.0
+bit>=0.8.0
+coincurve>=18.0.0
+requests>=2.31.0
